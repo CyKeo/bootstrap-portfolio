@@ -1,0 +1,116 @@
+
+/* sets size content location and background color for nav bar  */
+.navback{
+	background-color: #fff;
+	border-bottom: 2px solid #ccc;
+	color:#d3d4e2;
+	
+	padding-left: 128px;
+	padding-top: 40px;
+	padding-bottom:0px; 
+
+	font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+/* restyles nav brand */
+#name{
+	background-color: rgb(16, 165, 163);
+
+	width: 8%;
+
+	color: #fff;
+
+	/* font-size: 30px; */
+
+	padding: 5px;
+}
+
+
+.navbar{
+	color:#d3d4e2;
+}
+
+#first{
+	padding-left: 738px;
+}
+
+/* styles the main content heading */
+.head{
+	border-bottom: 2px solid #ddd;
+
+	color: rgb(16, 165, 163);
+}
+
+/* seperates main content from nav bar */
+.seperator{
+	padding: 20px;
+}
+
+.botseperator{
+	padding: 40px;
+}
+
+/* adds top border for main content colum */
+.top{
+	border-top: 2px solid #ddd;
+	padding: 5px;
+}
+
+/* adds bottom border for main content colum */
+.bottom{
+	border-bottom: 2px solid #ddd;
+}
+
+/* determines background and border for main content colum */
+.middle{
+
+	border-right: 2px solid #ddd;
+	border-left: 2px solid #ddd;
+	
+	color: #666;
+	background-color: #fff;
+
+	font-size: 18px;
+	line-height: 2;
+}
+
+.footer{
+	background-color: #fff;
+	text-align: center;
+	
+	bottom: 0;
+
+	width: 100%;
+
+	height: 60px;
+
+	line-height: 60px;
+
+	border: 2px solid #ddd;
+
+	font-family: 'Times New Roman', Times, serif;
+
+	padding-top: 15px;
+}
+
+.img{
+	float: left;
+
+padding: 10px;
+}
+
+
+
+
+
+
+
+/* sets background image for the whole page body */
+.body{
+	background-image: url(../images/what-the-hex/what-the-hex.png);
+
+	font-family: Arial, Helvetica, sans-serif;
+
+}
